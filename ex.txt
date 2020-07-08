@@ -1,2 +1,6 @@
 kdkflasf'as
+<<<<<<< HEAD
 df
+=======
+df
+>>>>>>> testing
